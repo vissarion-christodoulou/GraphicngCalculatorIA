@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RangedFunction
+comment1.params=
+comment1.target=RangedFunction()
+comment2.params=function\ lower\ upper
+comment2.target=RangedFunction(org.mariuszgromada.math.mxparser.Function,\ double,\ double)
+comment3.params=rf
+comment3.target=RangedFunction(RangedFunction)
+comment4.params=
+comment4.target=org.mariuszgromada.math.mxparser.Function\ getFunction()
+comment5.params=
+comment5.target=double\ getLower()
+comment6.params=
+comment6.target=double\ getUpper()
+comment7.params=function
+comment7.target=void\ setFunction(org.mariuszgromada.math.mxparser.Function)
+comment8.params=lower
+comment8.target=void\ setLower(double)
+comment9.params=upper
+comment9.target=void\ setUpper(double)
+numComments=10

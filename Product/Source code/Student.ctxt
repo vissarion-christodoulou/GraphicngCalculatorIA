@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=Description\:\r\n\ represents\ a\ student\r\n\ holding\ their\ name\ and\ email\ address\r\n
+comment1.params=
+comment1.target=Student()
+comment2.params=name\ emailAddress
+comment2.target=Student(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getEmailAddress()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=emailAddress
+comment6.target=void\ setEmailAddress(java.lang.String)
+numComments=7

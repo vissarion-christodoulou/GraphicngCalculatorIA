@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Validate
+comment1.params=name
+comment1.target=boolean\ isName(java.lang.String)
+comment2.params=email
+comment2.target=boolean\ isEmail(java.lang.String)
+numComments=3
